@@ -13,6 +13,7 @@ dist/
 __init__.pyc
 __init__.py
 .DS_Store
+*.egg-info/
 
 # Virtual environments
 venv/
